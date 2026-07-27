@@ -8,7 +8,7 @@ TeenagersLab
 - Paola Araujo
 - Lexander Bonfim
 - Rafael Gomes
----
+
 ## Domínio
   Moda Alternativa
 
