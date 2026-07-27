@@ -32,24 +32,24 @@ TeenagersLab
 
 ## Requisitos
 ### Requisitos Funcionais
-RF1. 
-RF2.
-RF3.
-RF4.
-RF5.
+RF1. O sistema deve permitir o cadastro e login de usuários
+RF2. O sistema deve ser responsivo para outros dispositivos
+RF3. O sistema deve possuir uma interface prática e intuitiva
+RF4. O sistema deve permitir ao usuário à gestão de dados de sua conta
+RF5. 
 RF6.
 RF7.
 RF8.
 RF9.
 RF10.
 ### Requisitos Não-Funcionais
--- RNF1.
--- RNF2.
--- RNF3.
--- RFN4.
--- RNF5.
--- RNF6.
--- RNF7.
--- RNF8.
--- RNF9.
--- RNF10.
+RNF1.
+RNF2.
+RNF3.
+RFN4.
+RNF5.
+RNF6.
+RNF7.
+RNF8.
+RNF9.
+RNF10.
