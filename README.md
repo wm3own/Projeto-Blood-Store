@@ -6,5 +6,5 @@ TeenagersLab
 
 # Membros
 Paola Araujo
-Lexander Bonfim
-Rafael Gomes
+--Lexander Bonfim
+--Rafael Gomes
