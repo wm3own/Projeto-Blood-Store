@@ -43,13 +43,13 @@ RF8.
 RF9.
 RF10.
 ### Requisitos Não-Funcionais
-RNF1.
-RNF2.
-RNF3.
-RFN4.
-RNF5.
-RNF6.
-RNF7.
-RNF8.
-RNF9.
-RNF10.
+-- RNF1.
+-- RNF2.
+-- RNF3.
+-- RFN4.
+-- RNF5.
+-- RNF6.
+-- RNF7.
+-- RNF8.
+-- RNF9.
+-- RNF10.
