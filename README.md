@@ -32,4 +32,24 @@ TeenagersLab
 
 ## Requisitos
 ### Requisitos Funcionais
+RF1. 
+RF2.
+RF3.
+RF4.
+RF5.
+RF6.
+RF7.
+RF8.
+RF9.
+RF10.
 ### Requisitos Não-Funcionais
+RNF1.
+RNF2.
+RNF3.
+RFN4.
+RNF5.
+RNF6.
+RNF7.
+RNF8.
+RNF9.
+RNF10.
