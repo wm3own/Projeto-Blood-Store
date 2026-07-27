@@ -5,6 +5,6 @@ Brechó online alternativo
 TeenagersLab
 
 # Membros
-Paola Araujo
---Lexander Bonfim
---Rafael Gomes
+-Paola Araujo
+- Lexander Bonfim
+- Rafael Gomes
