@@ -25,7 +25,7 @@ TeenagersLab
 
 6. Falta de identidade visual;
 
-7. Pouca sustentabilidade no nicho .
+7. Pouca sustentabilidade no nicho.
   
 ## Solução do Problema
   Promover a influência da estética alternativa, tornando estilos e culturas mais acessíveis para pessoas que não possuem condições, seja por carência monetária, por não encontrar estruturas que promovem esse tipo de comércio ou por inseguranças; criar um website torna a causa mais acessível para as pessoas em geral
