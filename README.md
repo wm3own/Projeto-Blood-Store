@@ -32,7 +32,7 @@ TeenagersLab
 
 ## Requisitos
 ### Requisitos Funcionais
-RF01: O sistema deve permitir o cadastro e login de usuários
+  RF01: O sistema deve permitir o cadastro e login de usuários
 RF02: O sistema deve ser responsivo para outros dispositivos
 RF03: O sistema deve possuir uma interface prática e intuitiva
 RF04: O sistema deve permitir ao usuário à gestão de dados de sua conta
